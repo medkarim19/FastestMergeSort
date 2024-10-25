@@ -26,7 +26,9 @@ This project implements a multi-threaded merge sort algorithm in Java. The merge
    cd multi-threaded-merge-sort
 
 2. **Compile the project**:
-    javac Principale.java
+   ```bash
+   javac Principale.java
 
 3. **Run the project**:
-    java Principale
+    ```bash
+   java Principale
