@@ -22,7 +22,7 @@ This project implements a multi-threaded merge sort algorithm in Java. The merge
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/medkarim19/FastestMergeSort.git]
+   git clone https://github.com/medkarim19/FastestMergeSort.git
    cd multi-threaded-merge-sort
 
 2. **Compile the project**:
